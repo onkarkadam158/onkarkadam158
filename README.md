@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=onkarkadam158&color=blue&style=flat-square&label=PROFILE+VIEWS)
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onkarkadam158&show_icons=true&theme=dark)
