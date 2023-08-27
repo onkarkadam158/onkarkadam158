@@ -38,5 +38,14 @@ Here are some ideas to get you started:
   <img src="https://github.com/Apurva-tech/Apurva-tech/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
+<hr>
 
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{onkarkadam158}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{onkarkadam158}/count.svg)  
+  
+</a>
+
+<hr>
 
